@@ -1,9 +1,9 @@
 # BDIII
-dados teoricos para o terceiro modulo de banco de dados MySql 
+Dados teoricos para o terceiro modulo de banco de dados MySql 
 
 
 ## Functions
-Geralmente é uma função criada pelo usuario que executa uma função e retorna um dado 
+Geralmente é uma função criada pelo usuario que executa uma função e retorna um dado. 
 O uso de functions podem ajudar desenvolvedores de BDAs a optimizar o desempenho de
 multiplas consultas ou atualizações de dados , além de melhorar a produtividade de
 quem desenvolve .
@@ -15,7 +15,14 @@ SQL para efetuar conversões de dados, formatar datas, contar o total de linhas,
 
 Essas mesmas funções servem para  armazená-la no banco de dados e chamá-la quantas 
 vezes quiser em seu programa. Funções definidas pelo usuário podem ser modificadas 
-independentemente do código-fonte do programa,além que pode reduzir o trafico de rede
+independentemente do código-fonte do programa,além que pode reduzir o trafico de rede.
+
+### Tipos de Funções
+
+- Escalar
+- Funções com valor de tabela
+- Funções de Sistema
+
 
 ## Exemplo 
 
