@@ -7,11 +7,17 @@ Geralmente é uma função criada pelo usuario que executa uma função e retorn
 O uso de functions podem ajudar desenvolvedores de BDAs a optimizar o desempenho de
 multiplas consultas ou atualizações de dados , além de melhorar a produtividade de
 quem desenvolve .
+
 As funções são muito utilizadas para computar valores, promover reusabilidade e 
 facilidade de manutenção e podem ser chamadas a partir de outros blocos PL/SQL 
 ou até mesmo por instruções SQL. É muito comum utilizarmos funções em instruções 
 SQL para efetuar conversões de dados, formatar datas, contar o total de linhas,etc.
 
+Essas mesmas funções servem para  armazená-la no banco de dados e chamá-la quantas 
+vezes quiser em seu programa. Funções definidas pelo usuário podem ser modificadas 
+independentemente do código-fonte do programa,além que pode reduzir o trafico de rede
+
+## Exemplo 
 
 
 
