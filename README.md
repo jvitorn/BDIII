@@ -20,6 +20,17 @@ independentemente do código-fonte do programa,além que pode reduzir o trafico 
 ### Tipos de Funções
 
 - Escalar
+
+    São funções que retornam um valor unico de resultado.
+    
+  > SUM, DATEADD, COALESCE
+  
+  > SELECT SUM(Quantity) AS TotalItemsOrdered FROM OrderDetails;
+  
+ Nesse exemplo é efetuado uma função de SOMA , onde soma todas as 'quantity' as 'Quantidades'
+ em 'TotalItemsOrdered' na Tabela 'OrderDetails'
+  
+    
 - Funções com valor de tabela
 - Funções de Sistema
 
@@ -34,3 +45,5 @@ independentemente do código-fonte do programa,além que pode reduzir o trafico 
 [http://db4beginners.com/blog/voce-sabe-o-que-e-uma-function/]
 
 [https://www.devmedia.com.br/stored-procedures-functions-e-packages-em-bancos-de-dados-oracle/25390]
+
+[https://www.devmedia.com.br/artigo-sql-magazine-51-udfs-e-funcoes-escalares/8179]
