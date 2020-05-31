@@ -30,7 +30,7 @@ independentemente do código-fonte do programa,além que pode reduzir o trafico 
  Nesse exemplo é efetuado uma função de SOMA , onde soma todas as 'quantity' as 'Quantidades'
  em 'TotalItemsOrdered' na Tabela 'OrderDetails'
  
- [1](https://raw.githubusercontent.com/jvitorn/BDIII/master/screenshot/1.png)
+ ![1](https://raw.githubusercontent.com/jvitorn/BDIII/master/screenshot/1.png)
   
     
 - Funções com valor de tabela
