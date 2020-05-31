@@ -19,4 +19,5 @@ SQL para efetuar conversões de dados, formatar datas, contar o total de linhas,
 ## Referencias 
 
 [http://db4beginners.com/blog/voce-sabe-o-que-e-uma-function/]
+
 [https://www.devmedia.com.br/stored-procedures-functions-e-packages-em-bancos-de-dados-oracle/25390]
